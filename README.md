@@ -1,9 +1,15 @@
+---
+![wallpaperflare com_wallpaper](https://github.com/amaitou/Certificates/assets/49293816/4569221f-4d30-4b6b-8738-a2036289d67e)
+
+---
 
 # Certificates
 
 Welcome to my Certificates repository! 📜 Here, you'll find a curated collection of my achievements and certifications in the field of programming and information technology. Explore a diverse range of PDF certificates showcasing my skills, completed courses, and professional development.
 
 Whether it's mastering programming languages, excelling in IT courses, or earning industry-recognized certifications, each document represents a milestone in my journey. Feel free to browse through and get insights into my skill set and commitment to continuous learning.
+
+---
 
 - ### Link of each Certificate
 
