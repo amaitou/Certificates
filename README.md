@@ -5,7 +5,7 @@ Welcome to my Certificates repository! 📜 Here, you'll find a curated collecti
 
 Whether it's mastering programming languages, excelling in IT courses, or earning industry-recognized certifications, each document represents a milestone in my journey. Feel free to browse through and get insights into my skill set and commitment to continuous learning.
 
-### - Link of each Certificate
+- ### Link of each Certificate
 
 	- **[CodinGame - Bronze Level](https://www.codingame.com/certification/cXlEOdpIRbkPwLC4VIApvA)**
 	- **[HackerRank - JavaScript (Basic)](https://www.hackerrank.com/certificates/2f6b69e3cc2c)**
